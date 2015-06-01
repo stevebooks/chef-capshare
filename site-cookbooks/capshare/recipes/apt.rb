@@ -5,6 +5,7 @@ end
 package 'build-essential'
 package 'git'
 package 'git-core'
+package 'htop'
 package 'vim'
 
 =begin

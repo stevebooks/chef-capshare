@@ -1,0 +1,5 @@
+#include_recipe 'capshare::apt'
+include_recipe 'user::data_bag'
+include_recipe 'ruby_build'
+#include_recipe 'capshare::ruby'
+#include_recipe 'capshare::known_hosts'

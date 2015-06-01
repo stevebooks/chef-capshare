@@ -1,0 +1,35 @@
+SITE
+  remote: https://supermarket.getchef.com/api/v1
+  specs:
+    apache2 (3.1.0)
+    application (4.1.6)
+    application_ruby (3.0.2)
+      apache2 (>= 0.0.0)
+      application (~> 4.0)
+      logrotate (~> 1.0)
+      passenger_apache2 (>= 0.0.0)
+      runit (~> 1.0)
+      unicorn (>= 0.0.0)
+    apt (2.7.0)
+    build-essential (2.2.3)
+    logrotate (1.9.1)
+    packagecloud (0.0.18)
+    partial_search (1.0.8)
+    passenger_apache2 (2.2.2)
+      apache2 (>= 1.0.4)
+      build-essential (>= 0.0.0)
+    ruby_build (0.8.0)
+    runit (1.6.0)
+      packagecloud (>= 0.0.0)
+    ssh_known_hosts (2.0.0)
+      partial_search (>= 0.0.0)
+    unicorn (2.0.0)
+    user (0.4.2)
+
+DEPENDENCIES
+  application_ruby (>= 0)
+  apt (>= 0)
+  ruby_build (>= 0)
+  ssh_known_hosts (>= 0)
+  user (>= 0)
+

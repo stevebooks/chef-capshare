@@ -1,0 +1,8 @@
+{
+  "id": "deployer",
+  "home": "/home/deployer",
+  "group": "www-data",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDffh7HS+xkx+NsNbY0OqV0Yjg9GX+yz371N8QmWb40JcyipASAwcz8e9g/p5LdzenGMI3lqvXYRS8NLbexZ2QAbEMDnvX7lvop7XSyBsDy6+JSLunwCaE4R1cVbAYb0mlZW/AXxW0yE43fhzfnxP0gAVwu9gdQ7l6r9fjeOwDxglQf8F4IOaeaB0nhdRY0MXga9arYcnEx7GRQ0Ir72DkDCRsxOgVQHu3S7/KMHiJrmlKYS94EJksm9PMK1uxdUGNE0g8WxQy8oCSgiNVQNGG34DzfdVmnK+P1qzq6VteOoG4Kff+O2+7VZopuacDMIpFYtpD29Gq468hs3VnNyYfzlcbye1i4Yj3itqa92aggdLG3paX5Zb4NwY8BLARA6Bh5tTFM8uiDnG4Zzd/S/VOXwmtKbtZ3IiqqllDCE1ni4XBeo1noNIzsG5PbEqlgoT7EUCIGrYHU9Wq67kJ3vGiLCxRx4mlw7CFQ2AAjkGzfWjMk6OlXy7ObrOWOPgyRvx9FNciyUCTLBv2iTwym23Na9S++VP1rQdMLkGU0BnjRMsjWRqXY73KVW/hPummgZPGMpZ8rQK2B50oPENMjMICkpkfkFEtN9Dp6PhOYt3KIisN+GhA0dANFytVjsm7cDe1/s2giLariqCCK2FBB++kfwiZ7dfeSBz/yMvbPvm6VFQ=="
+  ]
+}
